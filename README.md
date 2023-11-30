@@ -1,4 +1,5 @@
 # Bike Wars: Neon Riders
+Made by Romain THERON, Maximillien Menesguen, Timothée Popesco
 
 ![La boite du jeu ( fait par une IA ) ](BikeWarsBoite2.png)
 
