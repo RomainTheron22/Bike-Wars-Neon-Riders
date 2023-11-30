@@ -12,7 +12,7 @@ Bienvenue dans l'univers de "Bike Wars: Neon Riders", un jeu captivant où vites
 Pour plonger dans l'aventure de "Bike Wars: Neon Riders", vous aurez besoin de :
 
     2 x ESP32
-    Écrans OLED
+    2 x Écrans OLED
     Claviers matriciels
     Câbles et connexions
 
