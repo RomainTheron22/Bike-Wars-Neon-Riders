@@ -1,4 +1,8 @@
 # Bike-Wars-Neon-Riders
+
+![La boite du jeu ( fait par une IA ) ](BikeWarsBoite2.png)
+
+
 # FR
 ## Introduction
 
